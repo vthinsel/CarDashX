@@ -1,0 +1,3 @@
+﻿Compiling 'CarDashX' for 'Arduino Yún'
+Binary sketch size: 13 946 bytes (used 49% of a 28 672 byte maximum) (5,81 secs)
+Minimum Memory Usage: 537 bytes (21% of a 2560 byte maximum)
